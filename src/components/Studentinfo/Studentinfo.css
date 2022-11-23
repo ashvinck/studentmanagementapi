@@ -1,0 +1,38 @@
+.table {
+    margin-bottom: 0;
+}
+
+th {
+    border-top: 0;
+    border-bottom-width: 1px;
+    /* font-weight: $font-weight-medium; */
+}
+
+th,
+td {
+    vertical-align: middle;
+    /* font-size: $default-font-size; */
+    line-height: 1;
+    white-space: nowrap;
+}
+
+.table-img {
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.badge {
+    margin-bottom: 0;
+}
+
+.EditButton {
+    border-style: none;
+    margin-left: 6px;
+    color: rgb(110, 108, 108)
+}
+
+.Delete {
+    margin-top: -10px;
+}
